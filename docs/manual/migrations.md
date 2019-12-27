@@ -277,7 +277,7 @@ module.exports = {
             tableName: 'users',
             schema: 'schema'
           }
-          key: 'id'
+          field: 'id'
         },
         allowNull: false
       },
